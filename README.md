@@ -1,1 +1,1 @@
-This is the Task 3 for the CodeAplha November Batch Web-Development Internship.
+This is the Task 3 for the CodeAlpha November Batch Web-Development Internship.
